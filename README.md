@@ -16,7 +16,7 @@ The primary goal of this project was to demonstrate the capabilities of Excel in
 - **Data Analysis Techniques**
 
 ## Screenshots:
-[Insert screenshots of your Excel chart here]
+![Dasboad](https://github.com/user-attachments/assets/8a4bed56-325a-43b0-a73a-b0ba2d42ecbf)
 
 ## How to Use:
 1. Clone the repository or download the Excel file.
@@ -26,4 +26,4 @@ The primary goal of this project was to demonstrate the capabilities of Excel in
 ## License:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-![Dasboad](https://github.com/user-attachments/assets/8a4bed56-325a-43b0-a73a-b0ba2d42ecbf)
+
